@@ -72,6 +72,3 @@ The trained model is deployed using Watson Machine Learning, allowing for:
 
 The model achieves **[metrics to be added after evaluation]** in predicting the appropriate NSAP scheme for applicants, potentially improving the efficiency and accuracy of benefit allocation.
 
-## License
-
-**[Specify license information]**
